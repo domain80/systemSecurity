@@ -1,0 +1,15 @@
+/* src/components/ConvictTable.css */
+.convict-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .convict-table th, .convict-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .convict-table th {
+    background-color: #f2f2f2;
+  }
+  
